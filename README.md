@@ -1,1 +1,1 @@
-# Room-scale-training-and-gaming-XR-6DoF-dataset
+# Room scale raining and gaming XR 6DoF dataset
